@@ -14,10 +14,11 @@
 | Back Clear PMMA Panel 3mm  484x274 with holes ([DXF](DXF/Back_Panel_484x274.dxf)) | 1 | [Fabertec](https://plyty.fabertec.pl/PMMA-plexi-bezbarwna)|
 | [Corner](STL/Corner.stl) | 20 | Printed |
 | [Base](STL/Base.stl) | 6 | Printed |
-| [\[a\]_Roller](STL/[a]_Roller.stl) | 12 | Printed |
+| [\[a\]_Roller](STL/[a]_Roller.stl) | 12 | Printed with supports |
 | [\[a\]_Spacer](STL/[a]_Spacer.stl) | 24 | Printed |
 | [\[a\]_SilicaGel_Box](STL/[a]_SilicaGel_Box.stl) | 6 | Printed |
 | [\[a\]_SilicaGel_Lid](STL/[a]_SilicaGel_Lid.stl) | 6 | Printed |
+| [Stand](STL/Stand.stl) | x | Print as needed. Scale length. |
 | Door Hinge | 4 | Printed from Voron Repo |
 | Handle A | 2 | Printed from Voron Repo |
 | Handle B | 2 | Printed from Voron Repo |
