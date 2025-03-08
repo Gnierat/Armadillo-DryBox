@@ -1,5 +1,5 @@
 # Armadillo-DryBox
-## Project for Voron 2.4 350 stacket on top of a printer<br />
+## Project for Voron 2.4 350 stacked on top of a printer<br />
 ![Armadillo](IMG/Armadillo.png)
 
 # BOM
