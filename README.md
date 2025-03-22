@@ -28,7 +28,7 @@ Drybox made for Voron 2.4 350 <br />
 | ECAS04 | 6 | [Aliexpress](https://pl.aliexpress.com/item/1005005622840354.html?spm=a2g0o.order_list.order_list_main.15.67e51c24oUo2OH&gatewayAdapt=glo2pol) |
 | 8mm Stainless Steel Rod L75mm | 12 | |
 | 608 Bearing | 24 | |
-| 3x6mm Magnet | 6 | |
+| 3x6mm Magnet | 8 | |
 | M3x8 SHCS | 70 | |
 | M3 T-nut | 70 | |
 | M5x16 BHCS | 16 | |
