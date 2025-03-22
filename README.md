@@ -32,5 +32,6 @@ Drybox made for Voron 2.4 350 <br />
 | M3x8 SHCS | 70 | |
 | M3 T-nut | 70 | |
 | M5x16 BHCS | 16 | |
-
+#
+![IMG_2599](IMG/IMG_2599.jpg)
 #
